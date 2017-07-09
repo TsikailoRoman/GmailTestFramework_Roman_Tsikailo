@@ -20,7 +20,7 @@
 *.tar
 *.zip
 *.iml
-idea/
+.idea/
 target/
 
 # Logs and databases #
